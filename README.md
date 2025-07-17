@@ -59,4 +59,4 @@ Grid Game is a simple C program that simulates an 8x8 grid gradually filling wit
 ```
 
 ## License
-This project is unlicensed and provided as-is for personal use.
+This project is released under the Unlicense, a public domain dedication that waives all copyright and related rights, allowing you to use, modify, and distribute the code freely without any restrictions. See http://unlicense.org/ for full details.
